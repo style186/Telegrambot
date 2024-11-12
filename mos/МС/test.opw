@@ -1,0 +1,17 @@
+[RESOURCES]
+Resource 1
+Checker
+AutoVOZ
+[VARIABLES]
+Pack.NumberOut
+Diller.NumberOut
+Result check.NumberOut True
+Unpack.NumberOut Orig
+Check.NumberOut
+Transfer.NumberOut
+Transfer.NumberIn
+Check.NumberIn
+Util.NumberOut
+ChipiChipi.NumberOut
+Result check.NumberOut False
+Variable 1

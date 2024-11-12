@@ -1,0 +1,62 @@
+
+                                      ARENA Simulation Results
+                                        sv - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 9/26/2024
+Analyst: sv                                                          Model revision date: 9/26/2024
+
+Replication ended at time      : 8.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Zagotovka.VATime                            .49134     (Insuf)    .25670     .76904         75    
+Zagotovka.NVATime                           .00000     (Insuf)    .00000     .00000         75    
+Zagotovka.WaitTime                          .26923     (Insuf)    .00000     .66389         75    
+Zagotovka.TranTime                          .00000     (Insuf)    .00000     .00000         75    
+Zagotovka.OtherTime                         .00000     (Insuf)    .00000     .00000         75    
+Zagotovka.TotalTime                         .76057     (Insuf)    .25670     1.1946         75    
+Step_2.Queue.WaitingTime                    .03895     (Insuf)    .00000     .25296         62    
+Step_1.Queue.WaitingTime                    .18265     (Insuf)    .00000     .53055        108    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Zagotovka.WIP                               7.7553     (Insuf)    .00000     15.000     15.000    
+Stanok_1.NumberBusy                         .81499     (Insuf)    .00000     1.0000     1.0000    
+Stanok_1.NumberScheduled                    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Stanok_1.Utilization                        .81499     (Insuf)    .00000     1.0000     1.0000    
+Stanok_2_0.NumberBusy                       .67282     (Insuf)    .00000     1.0000     1.0000    
+Stanok_2_0.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Stanok_2_0.Utilization                      .67282     (Insuf)    .00000     1.0000     1.0000    
+Stanok_2_1.NumberBusy                       .62834     (Insuf)    .00000     1.0000     1.0000    
+Stanok_2_1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Stanok_2_1.Utilization                      .62834     (Insuf)    .00000     1.0000     1.0000    
+Step_2.Queue.NumberInQueue                  .30319     (Insuf)    .00000     3.0000     1.0000    
+Step_1.Queue.NumberInQueue                  2.4657     (Insuf)    .00000     7.0000     6.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Zagotovka.NumberIn                          90.000    
+Zagotovka.NumberOut                         75.000    
+Stanok_1.NumberSeized                       27.000    
+Stanok_1.ScheduledUtilization               .81499    
+Stanok_2_0.NumberSeized                     32.000    
+Stanok_2_0.ScheduledUtilization             .67282    
+Stanok_2_1.NumberSeized                     30.000    
+Stanok_2_1.ScheduledUtilization             .62834    
+System.NumberOut                            75.000    
+
+
+Simulation run time: 0.30 minutes.
+Simulation run complete.

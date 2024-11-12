@@ -1,0 +1,18 @@
+Fit All
+
+Document:  C:\Users\zaochnik\Documents\mos\МС\Книга1.txt
+Data File: C:\Users\zaochnik\Documents\mos\МС\Книга1.txt
+
+
+Function       Sq Error
+-----------------------
+Beta           0.000478
+Weibull        0.000575
+Normal         0.00162
+Gamma          0.00522
+Poisson        0.00558
+Triangular     0.00558
+Erlang         0.00596
+Lognormal      0.0146
+Uniform        0.0711
+Exponential    0.107

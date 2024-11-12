@@ -1,0 +1,39 @@
+
+	Distribution Summary
+
+Distribution:	Lognormal    
+Expression:	-0.5 + LOGN(3.05, 1.79)
+Square Error:	0.014636
+
+Chi Square Test
+  Number of intervals	= 7
+  Degrees of freedom 	= 4
+  Test Statistic     	= 65
+  Corresponding p-value	< 0.005
+
+	Data Summary
+
+Number of Data Points	= 700
+Min Data Value       	= 0
+Max Data Value       	= 6
+Sample Mean          	= 2.47
+Sample Std Dev       	= 1.3
+
+	Histogram Summary
+
+Histogram Range    	= -0.5 to 6.5
+Number of Intervals	= 7
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0    33      0.000     0.0471     0.0375     0.0471     0.0375
+   1   139       1.00      0.199      0.269      0.246      0.307
+   2   194       2.00      0.277      0.288      0.523      0.595
+   3   184       3.00      0.263      0.184      0.786      0.779
+   4   109       4.00      0.156      0.102      0.941      0.881
+   5    31       5.00     0.0443     0.0541      0.986      0.935
+   6    10       6.00     0.0143     0.0288       1.00      0.964

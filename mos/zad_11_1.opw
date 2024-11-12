@@ -1,0 +1,19 @@
+[RESOURCES]
+Stanok_1
+stanok_2_2
+stanok_2_1
+[VARIABLES]
+Decide 3.NumberOut False
+Ready_count
+Brack_count
+Rebuild_Brack
+Check.NumberOut
+Check.NumberIn
+Util.NumberOut
+Creator Zagotovka.NumberOut
+Ready_product.NumberOut
+Step_1.NumberIn
+Step_2.NumberIn
+Step_1.NumberOut
+Step_2.NumberOut
+Decide 3.NumberOut True

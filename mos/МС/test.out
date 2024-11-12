@@ -1,0 +1,83 @@
+
+1.0 Hours>
+1.0 Hours>
+1.0 Hours>
+1.0 Hours>
+2.0 Hours>
+2.0 Hours>
+2.0 Hours>
+2.0 Hours>
+2.0 Hours>
+2.0 Hours>
+2.0 Hours>
+7.4629762 Hours>
+7.4629762 Hours>
+7.4629762 Hours>
+7.4629762 Hours>
+8.4629762 Hours>
+8.4629762 Hours>
+8.4629762 Hours>
+8.4629762 Hours>
+                                      ARENA Simulation Results
+                                        sv - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 9/26/2024
+Analyst: sv                                                          Model revision date: 9/26/2024
+
+Replication ended at time      : 100.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Car.VATime                                  11.830     (Insuf)    1.0000     13.635         20    
+Car.NVATime                                 .00000     (Insuf)    .00000     .00000         20    
+Car.WaitTime                                6.6106     (Insuf)    .00000     17.712         20    
+Car.TranTime                                .00000     (Insuf)    .00000     .00000         20    
+Car.OtherTime                               .00000     (Insuf)    .00000     .00000         20    
+Car.TotalTime                               18.440     (Insuf)    1.0000     31.348         20    
+Check.Queue.WaitingTime                     .00000     (Insuf)    .00000     .00000         20    
+Pack.Queue.WaitingTime                      7.3452     (Insuf)    .00000     17.712         18    
+Transfer.Queue.WaitingTime                  .00000     (Insuf)    .00000     .00000          3    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Car.WIP                                     4.0491     (Insuf)    .00000     9.0000     .00000    
+Resource 1.NumberBusy                       .10000     (Insuf)    .00000     1.0000     .00000    
+Resource 1.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Resource 1.Utilization                      .10000     (Insuf)    .00000     1.0000     .00000    
+Checker.NumberBusy                          .00000     (Insuf)    .00000     .00000     .00000    
+Checker.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Checker.Utilization                         .00000     (Insuf)    .00000     .00000     .00000    
+AutoVOZ.NumberBusy                          .36100     (Insuf)    .00000     1.0000     .00000    
+AutoVOZ.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+AutoVOZ.Utilization                         .36100     (Insuf)    .00000     1.0000     .00000    
+Check.Queue.NumberInQueue                   .00000     (Insuf)    .00000     .00000     .00000    
+Pack.Queue.NumberInQueue                    1.3221     (Insuf)    .00000     6.0000     .00000    
+Transfer.Queue.NumberInQueue                .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Car.NumberIn                                23.000    
+Car.NumberOut                               23.000    
+Resource 1.NumberSeized                     10.000    
+Resource 1.ScheduledUtilization             .10000    
+Checker.NumberSeized                        .00000    
+Checker.ScheduledUtilization                .00000    
+AutoVOZ.NumberSeized                        3.0000    
+AutoVOZ.ScheduledUtilization                .36100    
+System.NumberOut                            20.000    
+
+
+Simulation run time: 0.87 minutes.
+Simulation run complete.

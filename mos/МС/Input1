@@ -1,0 +1,262 @@
+
+	Distribution Summary
+
+Distribution:	Beta         
+Expression:	-0.5 + 7 * BETA(2.71, 3.65)
+Square Error:	0.000478
+
+Chi Square Test
+  Number of intervals	= 6
+  Degrees of freedom 	= 3
+  Test Statistic     	= 4.99
+  Corresponding p-value	= 0.188
+
+	Data Summary
+
+Number of Data Points	= 700
+Min Data Value       	= 0
+Max Data Value       	= 6
+Sample Mean          	= 2.47
+Sample Std Dev       	= 1.3
+
+	Histogram Summary
+
+Histogram Range    	= -0.5 to 6.5
+Number of Intervals	= 7
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0    33      0.000     0.0471     0.0526     0.0471     0.0526
+   1   139       1.00      0.199      0.198      0.246      0.250
+   2   194       2.00      0.277      0.278      0.523      0.529
+   3   184       3.00      0.263      0.255      0.786      0.784
+   4   109       4.00      0.156      0.162      0.941      0.947
+   5    31       5.00     0.0443     0.0613      0.986       1.01
+   6    10       6.00     0.0143    0.00681       1.00       1.01
+
+
+=================================================================
+
+
+Data File: C:\Users\zaochnik\Documents\mos\Ã—\ ÌË„‡1.txt
+
+
+Function       Sq Error
+-----------------------
+Beta           0.000478
+Weibull        0.000575
+Normal         0.00162
+Gamma          0.00522
+Poisson        0.00558
+Triangular     0.00558
+Erlang         0.00596
+Lognormal      0.0146
+Uniform        0.0711
+Exponential    0.107
+
+	Distribution Summary
+
+Distribution:	Empirical    
+Expression:	CONT or DISC (0.000, -0.500,
+                              0.047,  0.500,
+                              0.246,  1.500,
+                              0.523,  2.500,
+                              0.786,  3.500,
+                              0.941,  4.500,
+                              0.986,  5.500,
+                              0.986,  6.500)
+
+
+	Data Summary
+
+Number of Data Points	= 700
+Min Data Value       	= 0
+Max Data Value       	= 6
+Sample Mean          	= 2.47
+Sample Std Dev       	= 1.3
+
+	Histogram Summary
+
+Histogram Range    	= -0.5 to 6.5
+Number of Intervals	= 7
+
+
+	Distribution Summary
+
+Distribution:	Beta         
+Expression:	-0.5 + 7 * BETA(2.71, 3.65)
+Square Error:	0.000478
+
+Chi Square Test
+  Number of intervals	= 6
+  Degrees of freedom 	= 3
+  Test Statistic     	= 4.99
+  Corresponding p-value	= 0.188
+
+	Data Summary
+
+Number of Data Points	= 700
+Min Data Value       	= 0
+Max Data Value       	= 6
+Sample Mean          	= 2.47
+Sample Std Dev       	= 1.3
+
+	Histogram Summary
+
+Histogram Range    	= -0.5 to 6.5
+Number of Intervals	= 7
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0    33      0.000     0.0471     0.0526     0.0471     0.0526
+   1   139       1.00      0.199      0.198      0.246      0.250
+   2   194       2.00      0.277      0.278      0.523      0.529
+   3   184       3.00      0.263      0.255      0.786      0.784
+   4   109       4.00      0.156      0.162      0.941      0.947
+   5    31       5.00     0.0443     0.0613      0.986       1.01
+   6    10       6.00     0.0143    0.00681       1.00       1.01
+
+	Distribution Summary
+
+Distribution:	Exponential  
+Expression:	-0.5 + EXPO(2.97)
+Square Error:	0.106679
+
+Chi Square Test
+  Number of intervals	= 7
+  Degrees of freedom 	= 5
+  Test Statistic     	= 465
+  Corresponding p-value	< 0.005
+
+	Data Summary
+
+Number of Data Points	= 700
+Min Data Value       	= 0
+Max Data Value       	= 6
+Sample Mean          	= 2.47
+Sample Std Dev       	= 1.3
+
+	Histogram Summary
+
+Histogram Range    	= -0.5 to 6.5
+Number of Intervals	= 7
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0    33      0.000     0.0471      0.286     0.0471      0.286
+   1   139       1.00      0.199      0.204      0.246      0.490
+   2   194       2.00      0.277      0.146      0.523      0.636
+   3   184       3.00      0.263      0.104      0.786      0.740
+   4   109       4.00      0.156     0.0744      0.941      0.814
+   5    31       5.00     0.0443     0.0531      0.986      0.867
+   6    10       6.00     0.0143     0.0379       1.00      0.905
+
+	Distribution Summary
+
+Distribution:	Gamma        
+Expression:	-0.5 + GAMM(0.695, 4.27)
+Square Error:	0.005222
+
+Chi Square Test
+  Number of intervals	= 7
+  Degrees of freedom 	= 4
+  Test Statistic     	= 23.6
+  Corresponding p-value	< 0.005
+
+	Data Summary
+
+Number of Data Points	= 700
+Min Data Value       	= 0
+Max Data Value       	= 6
+Sample Mean          	= 2.47
+Sample Std Dev       	= 1.3
+
+	Histogram Summary
+
+Histogram Range    	= -0.5 to 6.5
+Number of Intervals	= 7
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0    33      0.000     0.0471     0.0412     0.0471     0.0412
+   1   139       1.00      0.199      0.231      0.246      0.272
+   2   194       2.00      0.277      0.296      0.523      0.569
+   3   184       3.00      0.263      0.216      0.786      0.785
+   4   109       4.00      0.156      0.118      0.941      0.903
+   5    31       5.00     0.0443     0.0548      0.986      0.958
+   6    10       6.00     0.0143     0.0227       1.00      0.980
+
+	Distribution Summary
+
+Distribution:	Beta         
+Expression:	-0.5 + 7 * BETA(2.71, 3.65)
+Square Error:	0.000478
+
+Chi Square Test
+  Number of intervals	= 6
+  Degrees of freedom 	= 3
+  Test Statistic     	= 4.99
+  Corresponding p-value	= 0.188
+
+	Data Summary
+
+Number of Data Points	= 700
+Min Data Value       	= 0
+Max Data Value       	= 6
+Sample Mean          	= 2.47
+Sample Std Dev       	= 1.3
+
+	Histogram Summary
+
+Histogram Range    	= -0.5 to 6.5
+Number of Intervals	= 7
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0    33      0.000     0.0471     0.0526     0.0471     0.0526
+   1   139       1.00      0.199      0.198      0.246      0.250
+   2   194       2.00      0.277      0.278      0.523      0.529
+   3   184       3.00      0.263      0.255      0.786      0.784
+   4   109       4.00      0.156      0.162      0.941      0.947
+   5    31       5.00     0.0443     0.0613      0.986       1.01
+   6    10       6.00     0.0143    0.00681       1.00       1.01
+
+
+=================================================================
+
+
+Data File: C:\Users\zaochnik\Documents\mos\Ã—\ ÌË„‡1.txt
+
+
+Function       Sq Error
+-----------------------
+Beta           0.000478
+Weibull        0.000575
+Normal         0.00162
+Gamma          0.00522
+Poisson        0.00558
+Triangular     0.00558
+Erlang         0.00596
+Lognormal      0.0146
+Uniform        0.0711
+Exponential    0.107
